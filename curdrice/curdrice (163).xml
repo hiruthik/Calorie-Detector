@@ -1,0 +1,26 @@
+<annotation>
+	<folder>curdrice</folder>
+	<filename>curdrice (163).jpg</filename>
+	<path>C:\Akif\calorie-detector\curdrice\curdrice (163).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3309</width>
+		<height>2507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>curd_rice</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>466</ymin>
+			<xmax>2331</xmax>
+			<ymax>2507</ymax>
+		</bndbox>
+	</object>
+</annotation>
